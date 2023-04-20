@@ -1,0 +1,4 @@
+*.pyc
+*.pptx
+test_doc/build
+*.egg-info
